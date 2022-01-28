@@ -1,0 +1,21 @@
+{
+    "ClassName": "Folder",
+    "Children": [
+        {
+            "Name": "RegisterAppearance",
+            "ClassName": "RemoteFunction"
+        },
+        {
+            "Name": "SpawnAsAppearance",
+            "ClassName": "RemoteFunction"
+        },
+        {
+            "Name": "LoadPresets",
+            "ClassName": "RemoteEvent"
+        },
+        {
+            "Name": "ResetChar",
+            "ClassName": "RemoteEvent"
+        }
+    ]
+}
