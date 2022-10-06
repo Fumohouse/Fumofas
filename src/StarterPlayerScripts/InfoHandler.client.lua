@@ -10,6 +10,14 @@ blackboard.Board.SurfaceGui.VersionInfo.Info.Text = [[
 (F) - Feature
 (P) - Performance
 
+<b>ATB 2022/10/05</b>
+- Happy anniversary!
+- (B) Fixed all known broken meshes
+- (B) Fixed playlists
+    - 10 songs from the original playlists have been reintroduced.
+    - The rest are Roblox toolbox music.
+- (B) Fixed unanchored cans in the noodle bar
+
 <b>ATB 2021/11/27</b>
 - NOTICE: This is (most likely) the final update for Fumofas on Roblox. Thank you for playing and making a wonderful community.
 - Fumofas. Made w/ ♥ voided_etc & co. 2021
